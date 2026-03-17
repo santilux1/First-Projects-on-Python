@@ -5,5 +5,5 @@ if Savings < 100:
 		print("Get more money")
 else: 
 		for i in range(5):
-			Savings = int(Ahorros * 5)
+			Savings = int(Savings * 5)
 		print("In 5 years you will have: " + str(Savings) + ",Keep Saving,Fellow")
