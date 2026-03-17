@@ -1,0 +1,9 @@
+int = 111
+str = "Santiago"
+float = 9.8
+bool = True
+list = [1, 2, 3]
+tumple = (1, 2, 3)
+set = {1, 2, 3}
+complex = 1 + 2j
+dict = {"name": "Santiago", "age": 30} #hola
